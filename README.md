@@ -6,6 +6,7 @@ Tech excites me, challenges inspire me, and building projects keeps me moving fo
 🎓 Education
 
 🏫 Schooling: Kendriya Vidyalaya Ballygunge
+
 💼 Currently: BCA @ IMS, Kolkata
 
 ⚡ Skills & Tools
